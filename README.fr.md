@@ -17,7 +17,7 @@ nom du référentiel
 
 Texte
 
-Généré avec[Rytr](https://app.rytr.me)
+Généré avec[Ritr](https://app.rytr.me)
 
 ## 100 - Introduction
 
