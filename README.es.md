@@ -2,7 +2,7 @@ nombre-repositorio
 
 # Nombre del repositorio
 
-> Slugline
+> línea de bala
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
