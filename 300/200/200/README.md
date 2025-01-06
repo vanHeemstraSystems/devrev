@@ -4,7 +4,88 @@ See also [DevRev synced with GitLab](https://marketplace.devrev.ai/gitlab-pzy4ce
 
 After having signed into DevRev visit the page at https://marketplace.devrev.ai/gitlab-pzy4ce0g and click the **Install** button.
 
-On the [Snap-ins page](https://app.devrev.ai/agility-game/settings/snap-ins) you will see the snap-in being installed. When show the button **Complete Installation** click it.
+On the [Snap-ins page](https://app.devrev.ai/agility-game/settings/snap-ins) you will see the snap-in being installed. When shown the button **Complete Installation** click it.
+
+In the **Organization Settings**, set up the **Configuration** as follows:
+
+- Create task for PR reviewers: **On**
+> Creates a task for the assigned reviewer of a pull request.
+
+_ Enable magic commands: **On**
+> Enables commands to associate issues and Gitlab PRs (/toward) and automatically close issues when PRs are merged (/devrev-close).
+
+- Mention issues in PR body without magic commands: **On**
+> Issues can be mentioned in PR body without using /toward or /devrev-close.
+
+- Update issue stage on PR close: **On**
+> Update issue stage when a PR is closed or merged without /devrev-close.
+
+- Update autonomous issue with PR details: **On**
+> Updates branch autonomous issue body and title with PR details.
+
+- Link issues in PR body with autonomous issues: **On**
+> Creates a dependency link between issues in PR body and autonomous issues tagged with branch/PR.
+
+- Send reminders for inactive PRs: **On**
+>Sends reminders for stale PRs.
+
+- [Required] Days before sending PR reminders: **3**
+> Posts reminders on issue discussion for stale PRs after specified days of inactivity.
+
+- [Required] Default part for autonomous issues: **Default Product 1**
+> Default part to assign autonomous issues to (if part cannot be inferred from repository).
+
+- [Required] Automation stage for New Commit: **in_development**
+> Specifies the default stage to assign issues when a new commit is made.
+
+- [Required] Automation stage for New Branch: **in_development**
+> Specifies the default stage to assign issues when a new branch is created.
+
+- [Required] Automation stage for New PR Opened: **in_review**
+> Specifies the default stage to assign issues when a new Pull Request is opened.
+
+- [Required] Automation stage for PR Closed: **in_development**
+> Specifies the default stage to assign issues when a Pull Request is closed.
+
+Click **Save**.
+
+In the **My Settings**, set up the **Configuration** as follows:
+
+- [Required] Track autonomous work: **On Branch Creation**
+> Creates an issue when a Branch/PR is created/opened without linked issues.
+
+Click **Save**.
+
+Now click **Install Snap-in**.
+
+## Instructions
+
+1. Create new webhook
+  - Navigate to your Gitlab Settings > Webhooks and select Add new webhook
+    
+2. Add the following Payload URL
+  - https://api.devrev.ai/hidden/dev-orgs/DEV-3H0ADarH00/event-source-webhooks/custom/7d9687f2-8b72-4f57-b469-0da4c915bbd8
+    
+3. Set Secret token
+  - Add the following secret *************** (saved somewhere secure)
+    
+4. Select triggers
+  - Push events -> All Branches
+  - Merge request events
+    
+5. Finalize creation
+  - Finalize the creation by clicking Add webhook in Gitlab
+    
+6. Profile Page
+  - Navigate to the GitLab Edit Profile page, locate the User ID, and copy it.
+    
+7. Link GitLab ID
+  - Go to the snap-in Discussions sidebar and execute /link-identity <gitlab_user_id>.
+    
+8. Verify
+  - If the identity is shown as linked in the Discussions tab, you're all set.
+
+## About GitLab for DevRev
 
 Sync GitLab and DevRev so issue status is always real-time and driven by code.
 
