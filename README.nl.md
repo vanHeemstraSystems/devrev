@@ -1,6 +1,6 @@
 repositorynaam
 
-# Repository Name
+# Naam van opslagplaats
 
 > Slaklijn
 
@@ -17,11 +17,11 @@ repositorynaam
 
 Tekst
 
-Gegenereerd met[Rytr](https://app.rytr.me)
+Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
-See [README.md](./100/README.md)
+Zien[README.md](./100/README.md)
 
 ## 200 - Vereisten
 
@@ -33,4 +33,4 @@ Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
-See [README.md](./400/README.md)
+Zien[README.md](./400/README.md)
