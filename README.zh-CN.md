@@ -1,11 +1,11 @@
-repository-name
+存储库名称
 
 # 存储库名称
 
 > 斯拉格莱恩
 
 -   [域名系统](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [主办方](./HOSTS.md)
 -   [图片](./IMAGES.md)
@@ -15,9 +15,9 @@ repository-name
 
 **执行摘要**
 
-Text
+文本
 
-Generated with [里特尔](https://app.rytr.me)
+生成于[里特尔](https://app.rytr.me)
 
 ## 100 - 简介
 
@@ -29,7 +29,7 @@ Generated with [里特尔](https://app.rytr.me)
 
 ## 300 - 构建我们的应用程序
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 结论
 
