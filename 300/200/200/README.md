@@ -4,6 +4,8 @@ See also [DevRev synced with GitLab](https://marketplace.devrev.ai/gitlab-pzy4ce
 
 After having signed into DevRev visit the page at https://marketplace.devrev.ai/gitlab-pzy4ce0g and click the **Install** button.
 
+On the [Snap-ins page](https://app.devrev.ai/agility-game/settings/snap-ins) you will see the snap-in being installed. When show the button **Complete Installation** click it.
+
 Sync GitLab and DevRev so issue status is always real-time and driven by code.
 
 ## Overview
