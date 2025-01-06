@@ -22,3 +22,33 @@ However, if you choose to work in GitLab and never created or linked an issue, y
 
 ## Features
 
+This automation is powerful, and has several configurable features. As they say, the power is in the defaults! When you install this snap-in, DevRev configures defaults that are tried and tested. You always have the option to customize further.
+
+### Automatic status updates
+You can associate GitLab commits, branches and merge requests with the DevRev issue they correspond to. Doing so allows you to see GitLab activity in the corresponding DevRev issue and to act on those events, allowing you to automate away your manual tasks. Mention DevRev issues in GitLab, and route the relevant GitLab events to this issue. They can be mentioned either as display IDs (ISS-34) or object IDs (issue:34), case insensitively. A DevRev issue can be mentioned in branch names, commit messages, or MR titles.
+
+### Autocreate issues from GitLab branch
+If you do not explicitly associate your DevRev issue to GitLab branches, commits or MRs, then DevRev can autocreate your issues so you have an account of all your GitLab activity. This feature automatically creates an issue when a new branch is created, and tracks all associated commits and merge requests on this issue. The auto-created issues will move status based on Git activity, to in development based on branch and commit activity, and in review when MRs are created and merged. If desired, when MRs are merged, you can personalize the automation to move the issue to closed status. However, this template by default will keep the issue in an open state.
+
+### Autocreate issues from GitLab MRs
+You can choose to automatically create issues when a new MR is created, and it is not linked to an existing DevRev Issue. The behavior is similar to how issues are auto-created with new branches. The auto-created issues will move status based on Git activity, and events are posted on the DevRev issue timeline. If desired, when MRs are merged, you can personalize the automation to move the issue to closed status. However, this automation by default will keep the issue in an open state.
+
+Issues autocreated from GitLab branches or MRs are called 'autonomous issues'. They have the tag autonomous.
+
+### Attribute part to autonomous work
+This automation will infer the part from a repository if possible. If not, the issue is created with a specified default part. You can configure the default part while setting up this snap-in. Every issue on DevRev must have a part attribution.
+
+### Enrich autonomous work descriptions
+Enrich autonomous issues with information derived from GitLab MR events. The title and description of an autocreated issue is enriched with the MR data. When a new GitLab MR is opened or edited, then the related autonomous issue description is updated with the latest MR description. If the user has removed the auto generated text, then the automation will no longer update the description from MRs. Similarly, autonomous work titles are updated with the MR title, if the user hasn’t already updated it.
+
+### Link autonomous work with related issue
+Create a related link between the work-items mentioned in the MR body and the autonomous issues tagged with the branch/MR. When a new GitLab MR is opened/edited, for all the autonomous tagged work items(by branch/MR), automatically mark the issues mentioned in the MR as related.
+
+### Automatically close autonomous work
+Autonomous work gets closed when its related MR is merged. However, if there is no MR activity on this work, then the autonomous work is closed after configurable period.
+
+### Automatic MR tasks
+When a merge request is requested or reopened, a DevRev task is created for you. In order for this automation to be triggered, you'll need to link your merge requests to DevRev issues. If your MR is removed, merged or closed, then the Task gets deleted. However, if you submit your MR review, then the task is closed.
+
+### Automatic MR reminders
+When a merge request is inactive for more than a specified number of days, then this automation will post a message in all related DevRev issues. You'll need to link your GitLab merge request to DevRev issue to enable these reminders. There are several ways to link your GitLab merge requests to DevRev issues. You can do so by mentioning the DevRev issue ID in the merge request title or body, or mention it in the branch name or commit message. Reminders are also posted for issues created autonomously.
