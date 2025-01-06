@@ -80,7 +80,7 @@ Now click **Install Snap-in**.
   - Navigate to the GitLab Edit Profile page, locate the User ID, and copy it.
     
 7. Link GitLab ID
-  - Go to the snap-in Discussions sidebar and execute /link-identity <gitlab_user_id>.
+  - Go to the snap-in Discussions sidebar and execute /link_identity <gitlab_user_id>.
     
 8. Verify
   - If the identity is shown as linked in the Discussions tab, you're all set.
