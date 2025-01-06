@@ -1,12 +1,12 @@
 Repository-Name
 
-# Repository Name
+# Repository-Name
 
 > Slugline
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
@@ -17,7 +17,7 @@ Repository-Name
 
 Text
 
-Erstellt mit[Rytr](https://app.rytr.me)
+Erstellt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
