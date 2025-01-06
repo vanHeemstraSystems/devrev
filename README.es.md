@@ -5,19 +5,19 @@ nombre-repositorio
 > línea de bala
 
 -   [DNS](./DNS.md)
--   [Documentación](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetria](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
 Texto
 
-Generated with [ritr](https://app.rytr.me)
+Generado con[ritr](https://app.rytr.me)
 
 ## 100 - Introducción
 
