@@ -1,4 +1,4 @@
-repository-name
+भंडार-नाम
 
 # भंडार का नाम
 
@@ -17,7 +17,7 @@ repository-name
 
 मूलपाठ
 
-के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
+Generated with [रित्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
