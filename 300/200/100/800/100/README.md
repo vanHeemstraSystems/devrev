@@ -1,5 +1,7 @@
 # 100 - Invite a User
 
+**WARNING**: This feature requires a Build Pro license!
+
 Go to [Invite User]().
 
 A form **Invite users** will show up.
@@ -12,6 +14,6 @@ A form **Invite users** will show up.
 
 > You can only invite users to groups that you are a member of.
 
-**Attache a license**: ```Select license```
+**Attach a license**: ```Select license```
 
 Click **Cancel** or **Send invite**.
