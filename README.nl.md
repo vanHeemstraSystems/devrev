@@ -9,7 +9,7 @@ repositorynaam
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
 -   [Afbeeldingen](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [Ingetogen](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
