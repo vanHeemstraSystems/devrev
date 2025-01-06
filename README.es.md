@@ -11,13 +11,13 @@ nombre-repositorio
 -   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
--   [Telemetria](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
 Texto
 
-Generado con[ritr](https://app.rytr.me)
+Generated with [ritr](https://app.rytr.me)
 
 ## 100 - Introducción
 
