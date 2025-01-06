@@ -1,6 +1,6 @@
 nom du référentiel
 
-# Repository Name
+# Nom du référentiel
 
 > Slugline
 
@@ -10,16 +10,16 @@ nom du référentiel
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
 -   [Tamisé](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
 
-Text
+Texte
 
-Généré avec[Ritr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
-## 100 - Présentation
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
@@ -27,9 +27,9 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Créer notre application
 
-Voir[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Conclusion
 
