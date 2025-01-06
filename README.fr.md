@@ -1,6 +1,6 @@
 nom du référentiel
 
-# Nom du référentiel
+# Repository Name
 
 > Slugline
 
@@ -10,12 +10,12 @@ nom du référentiel
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
 -   [Tamisé](./PODMAN.md)
--   [Références](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
 
-Texte
+Text
 
 Généré avec[Ritr](https://app.rytr.me)
 
