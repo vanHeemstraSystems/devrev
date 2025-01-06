@@ -8,12 +8,12 @@ nombre-repositorio
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
-**Executive Summary**
+**Resumen ejecutivo**
 
 Texto
 
@@ -31,6 +31,6 @@ Ver[README.md](./200/README.md)
 
 Ver[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - Conclusión
 
 Ver[README.md](./400/README.md)
