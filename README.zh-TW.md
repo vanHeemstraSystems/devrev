@@ -1,10 +1,10 @@
-儲存庫名稱
+repository-name
 
 # 儲存庫名稱
 
 > 斯拉格萊恩
 
--   [域名系統](./DNS.md)
+-   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [主辦單位](./HOSTS.md)
@@ -17,7 +17,7 @@
 
 文字
 
-生成於[Rytr](https://app.rytr.me)
+生成於[里特爾](https://app.rytr.me)
 
 ## 100 - 簡介
 
