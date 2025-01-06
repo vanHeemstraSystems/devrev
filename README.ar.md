@@ -2,7 +2,7 @@
 
 # اسم المستودع
 
-> سلوجلاين
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [التوثيق](./DOCUMENTATION.md)
@@ -31,6 +31,6 @@
 
 يرى[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
