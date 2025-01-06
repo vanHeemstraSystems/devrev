@@ -9,7 +9,7 @@
 -   [词汇表](./GLOSSARY.md)
 -   [主办方](./HOSTS.md)
 -   [图片](./IMAGES.md)
--   [柔和的](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
