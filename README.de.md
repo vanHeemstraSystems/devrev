@@ -1,4 +1,4 @@
-Repository-Name
+repository-name
 
 # Repository-Name
 
@@ -10,7 +10,7 @@ Repository-Name
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
 **Zusammenfassung**
@@ -21,7 +21,7 @@ Erstellt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
-See [README.md](./100/README.md)
+Sehen[README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
