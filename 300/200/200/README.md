@@ -11,7 +11,7 @@ In the **Organization Settings**, set up the **Configuration** as follows:
 - Create task for PR reviewers: **On**
 > Creates a task for the assigned reviewer of a pull request.
 
-_ Enable magic commands: **On**
+- Enable magic commands: **On**
 > Enables commands to associate issues and Gitlab PRs (/toward) and automatically close issues when PRs are merged (/devrev-close).
 
 - Mention issues in PR body without magic commands: **On**
