@@ -1,13 +1,13 @@
 存储库名称
 
-# 存储库名称
+# Repository Name
 
 > 斯拉格莱恩
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
--   [Hosts](./HOSTS.md)
+-   [主办方](./HOSTS.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
