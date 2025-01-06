@@ -10,7 +10,7 @@
 -   [主办方](./HOSTS.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
--   [参考](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
 **执行摘要**
@@ -29,8 +29,8 @@
 
 ## 300 - 构建我们的应用程序
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
-## 400 - 结论
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
