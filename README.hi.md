@@ -1,10 +1,10 @@
 भंडार-नाम
 
-# भंडार का नाम
+# Repository Name
 
 > स्लगलाइन
 
--   [डीएनएस](./DNS.md)
+-   [DNS](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
@@ -13,11 +13,11 @@
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
-**कार्यकारी सारांश**
+**Executive Summary**
 
 मूलपाठ
 
-के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
+के साथ उत्पन्न हुआ[Rytr](https://app.rytr.me)
 
 ## 100 - परिचय
 
@@ -27,7 +27,7 @@
 
 देखना[README.md](./200/README.md)
 
-## 300 - हमारे एप्लिकेशन का निर्माण
+## 300 - Building Our Application
 
 देखना[README.md](./300/README.md)
 
