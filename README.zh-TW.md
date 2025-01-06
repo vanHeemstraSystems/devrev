@@ -17,9 +17,9 @@
 
 文字
 
-生成於[里特爾](https://app.rytr.me)
+Generated with [里特爾](https://app.rytr.me)
 
-## 100 - 簡介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
