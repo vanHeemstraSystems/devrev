@@ -9,7 +9,7 @@ Repository-Name
 -   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [Gedämpft](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
