@@ -2,7 +2,7 @@
 
 # 儲存庫名稱
 
-> Slugline
+> 斯拉格萊恩
 
 -   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
@@ -11,13 +11,13 @@
 -   [圖片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [參考](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [遙測](./TELEMETRY.md)
 
 **執行摘要**
 
 文字
 
-Generated with [里特爾](https://app.rytr.me)
+生成於[里特爾](https://app.rytr.me)
 
 ## 100 - 簡介
 
