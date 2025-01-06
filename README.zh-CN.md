@@ -6,7 +6,7 @@
 
 -   [域名系统](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
--   [词汇表](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [主办方](./HOSTS.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
@@ -33,4 +33,4 @@
 
 ## 400 - 结论
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
