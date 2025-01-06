@@ -13,7 +13,7 @@
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
-**कार्यकारी सारांश**
+**Executive Summary**
 
 मूलपाठ
 
@@ -29,7 +29,7 @@
 
 ## 300 - हमारे एप्लिकेशन का निर्माण
 
-See [README.md](./300/README.md)
+देखना[README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
