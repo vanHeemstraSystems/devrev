@@ -2,7 +2,7 @@
 
 # اسم المستودع
 
-> Slugline
+> سلوجلاين
 
 -   [DNS](./DNS.md)
 -   [التوثيق](./DOCUMENTATION.md)
