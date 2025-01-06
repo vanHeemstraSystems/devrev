@@ -2,9 +2,7 @@
 
 ## 100 - Getting Started
 
-See https://app.devrev.ai/nux/start-with
-
-Visit https://app.devrev.ai/agility-game
+See [README.md](./100/README.md)
 
 ## 200 - Synching DevRev with GitLab
 
