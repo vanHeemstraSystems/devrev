@@ -8,7 +8,7 @@
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
@@ -31,6 +31,6 @@
 
 يرى[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
