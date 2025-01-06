@@ -1,6 +1,6 @@
 Repository-Name
 
-# Repository-Name
+# Repository Name
 
 > Slugline
 
@@ -13,7 +13,7 @@ Repository-Name
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Zusammenfassung**
 
 Text
 
