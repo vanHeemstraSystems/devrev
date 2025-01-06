@@ -10,7 +10,7 @@
 -   [主办方](./HOSTS.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
--   [参考](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
 **执行摘要**
