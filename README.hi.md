@@ -1,6 +1,6 @@
 भंडार-नाम
 
-# Repository Name
+# भंडार का नाम
 
 > स्लगलाइन
 
@@ -8,16 +8,16 @@
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [Hosts](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [इमेजिस](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [टेलीमेटरी](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
 
 मूलपाठ
 
-के साथ उत्पन्न हुआ[Rytr](https://app.rytr.me)
+के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
