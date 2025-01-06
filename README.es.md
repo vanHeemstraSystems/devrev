@@ -1,6 +1,6 @@
-nombre-repositorio
+repository-name
 
-# Repository Name
+# Nombre del repositorio
 
 > línea de bala
 
