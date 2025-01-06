@@ -4,7 +4,7 @@
 
 > 斯拉格萊恩
 
--   [域名系統](./DNS.md)
+-   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [主辦單位](./HOSTS.md)
@@ -23,7 +23,7 @@
 
 看[README.md](./100/README.md)
 
-## 200 - 要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
