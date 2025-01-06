@@ -17,7 +17,7 @@ Repository-Name
 
 Text
 
-Erstellt mit[Ritr](https://app.rytr.me)
+Erstellt mit[Rytr](https://app.rytr.me)
 
 ## 100 - Einführung
 
