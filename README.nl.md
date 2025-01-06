@@ -8,7 +8,7 @@ repositorynaam
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [Afbeeldingen](./IMAGES.md)
 -   [Ingetogen](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
