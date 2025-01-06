@@ -8,7 +8,7 @@
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [主辦單位](./HOSTS.md)
--   [圖片](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
@@ -17,7 +17,7 @@
 
 文字
 
-Generated with [里特爾](https://app.rytr.me)
+生成於[里特爾](https://app.rytr.me)
 
 ## 100 - 簡介
 
