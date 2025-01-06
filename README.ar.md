@@ -1,13 +1,13 @@
 اسم المستودع
 
-# Repository Name
+# اسم المستودع
 
 > سلوجلاين
 
 -   [DNS](./DNS.md)
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
--   [المضيفين](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
@@ -31,6 +31,6 @@
 
 يرى[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
