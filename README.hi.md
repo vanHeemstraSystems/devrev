@@ -1,4 +1,4 @@
-भंडार-नाम
+repository-name
 
 # भंडार का नाम
 
@@ -19,7 +19,7 @@
 
 के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
 
-## 100 - परिचय
+## 100 - Introduction
 
 देखना[README.md](./100/README.md)
 
