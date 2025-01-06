@@ -2,7 +2,7 @@
 
 # 存储库名称
 
-> Slugline
+> 斯拉格莱恩
 
 -   [域名系统](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
