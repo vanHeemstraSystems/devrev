@@ -4,10 +4,10 @@
 
 > 斯拉格莱恩
 
--   [域名系统](./DNS.md)
+-   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
--   [主办方](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
@@ -21,7 +21,7 @@
 
 ## 100 - 简介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
